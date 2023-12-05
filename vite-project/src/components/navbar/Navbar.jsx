@@ -177,7 +177,7 @@ export default function Navbar() {
                 </svg>
               </button>
 
-              {/* Logo */}
+              {/* Logo of */}
               <div className="ml-4 flex lg:ml-0">
                 <Link to={"/"} className="flex">
                   <div className="flex ">

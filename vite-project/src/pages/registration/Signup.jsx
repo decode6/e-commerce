@@ -11,7 +11,7 @@ function Signup() {
     const [name, setName] = useState("");
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
-
+    // context menu
     const context = useContext(myContext);
     const { loading, setLoading } = context;
 

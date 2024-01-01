@@ -5,7 +5,7 @@ function UpdateProduct() {
     const context = useContext(myContext);
     const { products, setProducts, updateProduct } = context;
 
-//updateProduct items
+//updateProduct item
 
     return (
         <div>

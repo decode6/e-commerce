@@ -42,7 +42,7 @@ function ProductInfo() {
     const cartItems = useSelector((state) => state.cart)
     // console.log(cartItems)
 
-    // add to cart
+    // add to cart function
     const addCart = (products) => {
         dispatch(addToCart(products))
         toast.success('add to cart');

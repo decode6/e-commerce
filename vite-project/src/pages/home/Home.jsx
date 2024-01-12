@@ -8,7 +8,7 @@ import Track from '../../components/track/Track'
 import Testimonial from '../../components/testimonial/Testimonial'
 import { Link } from 'react-router-dom'
 
-//Home 
+//Home section
 function Home() {
   return (
     <Layout>
